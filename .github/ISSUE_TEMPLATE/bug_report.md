@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -18,3 +18,7 @@ assignees: ''
 ## 🍀 예상 결과
 
 > 예상했던 정상적인 결과가 어떤 것이었는지 설명해주세요
+
+## 📎 참고할만한 자료(선택)
+
+> 관련 문서, 스크린샷, 또는 예시 등이 있다면 여기에 첨부해주세요
